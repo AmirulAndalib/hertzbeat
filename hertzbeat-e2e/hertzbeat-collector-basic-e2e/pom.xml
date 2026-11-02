@@ -31,7 +31,7 @@
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <postgresql.version>42.5.5</postgresql.version>
+        <postgresql.version>42.7.12</postgresql.version>
     </properties>
 
     <dependencies>
